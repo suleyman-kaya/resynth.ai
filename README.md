@@ -66,12 +66,12 @@ signal = ifft(fft_reconstructed, norm='ortho').real
 
 1. Audio analysieren:
 ```python
-perfect_wav_to_json("gitarre.wav", "daten.json")
+perfect_wav_to_json("guitar.wav", "daten.json")
 ```
 
 2. Audio wiederherstellen:
 ```python
-perfect_json_to_wav("daten.json", "neu_gitarre.wav")
+perfect_json_to_wav("audio_daten.json", "neu_guitar.wav")
 ```
 
 ## Vorteile

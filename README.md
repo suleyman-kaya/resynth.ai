@@ -1,5 +1,7 @@
 dümenden ekolayzır   [  tamam  ]
 
+frekans shifting     [  tamam  ]
+
 dümenden reverb      [ yakında ]
 
 dümenden modulation  [ yakında ]
